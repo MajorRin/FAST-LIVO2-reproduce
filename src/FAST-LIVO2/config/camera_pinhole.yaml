@@ -1,0 +1,33 @@
+cam_model: Pinhole
+cam_width: 1280
+cam_height: 1024
+scale: 1    # 原始为0.5
+## raw config:
+# cam_fx: 1293.56944
+# cam_fy: 1293.3155
+# cam_cx: 626.91359
+# cam_cy: 522.799224
+# cam_d0: -0.076160
+# cam_d1: 0.123001
+# cam_d2: -0.00113
+# cam_d3: 0.000251
+
+# ## after calibration: scale=0.5
+# cam_fx: 2573.01991
+# cam_fy: 2571.86788
+# cam_cx: 602.86255
+# cam_cy: 469.36998
+# cam_d0: -0.128312
+# cam_d1: -0.026822
+# cam_d2: -0.007263
+# cam_d3: -0.020195
+
+# after calibration: scale=1
+cam_fx: 5164.244021
+cam_fy: 5143.218234
+cam_cx: 919.140258
+cam_cy: 889.567651
+cam_d0: 0.104180
+cam_d1: -0.947646
+cam_d2: -0.004988 
+cam_d3: -0.033195
